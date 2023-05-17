@@ -50,5 +50,5 @@ function display() {
     BelBeeLab * 1 +
     Maths * 4 +
     CP * 4;
-  console.log(result / 21);
+  console.log("Your SGPA is: " + result / 21);
 }
